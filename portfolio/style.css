@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+}
+
+header {
+  background-color: #4CAF50;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+.about {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  gap: 20px;
+  background-color: #ffffff;
+}
+
+.about img {
+  text-align: center;
+  width: 150px;
+  height: 150px;
+  border-radius: 10%;
+}
+
+section {
+  padding: 20px 30px;
+  background-color: #ffffff;
+  margin: 10px 0;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.resume a {
+  color: #4CAF50;
+  text-decoration: none;
+  font-weight: bold;
+}
+.footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #f8f8f8;
+  color: #444;
+  font-size: 14px;
+  margin-top: 30px;
+}
